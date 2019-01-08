@@ -1,1 +1,1 @@
-# my first python project
+# Techdegree Project 1 - Number Guessing Game
